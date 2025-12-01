@@ -1,9 +1,11 @@
-<h1 align= "center">
+<div align= "center">
+<h1>
 <a href="https://alura-plus-five-nu-76.vercel.app/" target="_blank">
 <img src="imagens/paginaalura.png" alt="Preview da página Alura+" />
 </a>
 <p>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</p>
 </h1>
+</div>
 
 
 
