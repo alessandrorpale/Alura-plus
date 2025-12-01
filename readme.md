@@ -1,5 +1,7 @@
-<h1 alingn= "center">
-<a href="alura-plus-pslr2el3z-alessandros-projects-1e1fb66c.vercel.app"><img src="imagens/paginaalura.png"></a>
+<h1 align= "center">
+<a href="https://alura-plus-five-nu-76.vercel.app/" target="_blank">
+<img src="imagens/paginaalura.png" alt="Preview da página Alura+" />
+</a>
 <p>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</p>
 </h1>
 
